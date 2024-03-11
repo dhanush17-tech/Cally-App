@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "597928996925",
+    "project_id": "ai-calenda",
+    "storage_bucket": "ai-calenda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597928996925:android:9f845b1b95425c191afa54",
+        "android_client_info": {
+          "package_name": "com.calendar.cally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597928996925-pkifffuef71p5p4sij157a0qnc7vla7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.calendar.cally",
+            "certificate_hash": "b867f26ccddb5b73d1646405ee037f7914ac5475"
+          }
+        },
+        {
+          "client_id": "597928996925-drie6gp1op63r46kbnqlrbfvd0n67sgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyawjwu1t-X2yPrA55pJjONDo5cdoy55Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597928996925-drie6gp1op63r46kbnqlrbfvd0n67sgh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597928996925-1ie1pddoa5t34csoad7mikootr43tthr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aiCalendarApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
